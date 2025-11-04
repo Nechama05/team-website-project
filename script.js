@@ -2,4 +2,4 @@ function greet() {
     alert("Hello from Student C!");
 }
 
-console.log("Website loaded! a b");
+console.log("Website loaded! a b c");
